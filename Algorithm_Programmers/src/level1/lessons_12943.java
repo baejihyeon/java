@@ -3,7 +3,7 @@ package level1;
 public class lessons_12943 {
 	 public int solution(long num) {
 	        int answer = 0;
-			while (true) {
+			while (true) { //무한루프로 시작해서 break문 어디에 거는지 중요한 문제!
 				if (num == 1) {
 					break;
 				}
