@@ -17,7 +17,8 @@ public class lessons_12943 {
 					num = (num * 3) + 1;
 					answer += 1;
 				}
-			}
+			} 
+			
 			return answer;
 		}
 }
